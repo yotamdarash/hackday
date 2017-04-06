@@ -36,7 +36,7 @@ def youtube_search(options, kind="video"):
 
 
 if __name__ == "__main__":
-    kind = "playlist"
+    kind = "video"
     listOfIds = []
     if kind == "playlist":
         file = open("top500albumAmazonTitle.txt")

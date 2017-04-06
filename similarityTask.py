@@ -8,7 +8,7 @@ def addVector(trackVectorsCollection, chart, type):
 
 
 
-amazonFileName = "top100trackAmazonTitle.txt"
+amazonFileName = "top500albumAmazonTitle.txt"
 youtubeFileName = "top100videoSortedListByReviews.txt"
 amazonRank = open(amazonFileName)
 youtubeRank = open(youtubeFileName)

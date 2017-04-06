@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b9734ba-f815-43a9-91cd-efa515857237" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/hackday.iml" afterPath="$PROJECT_DIR$/.idea/hackday.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/top100album.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/getYouTubeID.py" afterPath="$PROJECT_DIR$/getYouTubeID.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/similarityTask.py" afterPath="$PROJECT_DIR$/similarityTask.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/top100TracksAmazon.json" afterPath="$PROJECT_DIR$/top100TracksAmazon.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/top100trackAmazonTitle.txt" afterPath="$PROJECT_DIR$/top100trackAmazonTitle.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/top100videoId.txt" afterPath="$PROJECT_DIR$/top100videoId.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,8 +23,8 @@
       <file leaf-file-name="getTopTitles.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/getTopTitles.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="150">
+              <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -31,11 +35,51 @@
       <file leaf-file-name="getYouTubeID.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/getYouTubeID.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-275">
-              <caret line="28" column="58" lean-forward="false" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="58" />
+            <state relative-caret-position="214">
+              <caret line="38" column="17" lean-forward="false" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
               <folding>
                 <element signature="e#18#27#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cosineSimilarity.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cosineSimilarity.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-35">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="top100album.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/top100album.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="top100trackAmazonTitle.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/top100trackAmazonTitle.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="878" column="8" lean-forward="false" selection-start-line="878" selection-start-column="5" selection-end-line="878" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="top100videoId.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/top100videoId.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="868" column="5" lean-forward="false" selection-start-line="868" selection-start-column="5" selection-end-line="868" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -50,31 +94,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="top100videoTitle_ID_Reviews.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/top100videoTitle_ID_Reviews.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="similarityTask.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/similarityTask.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="30" column="17" lean-forward="false" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+            <state relative-caret-position="165">
+              <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TracksTwoSourceVectors.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TracksTwoSourceVectors.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TracksTwoSourceVectors.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
+            <state relative-caret-position="-883">
               <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="top100TracksAmazon.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/top100TracksAmazon.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="35037" column="1" lean-forward="false" selection-start-line="35037" selection-start-column="1" selection-end-line="35037" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -107,6 +151,8 @@
         <option value="$PROJECT_DIR$/top500albumAmazonTitle.txt" />
         <option value="$PROJECT_DIR$/top100albumAmazonTitle.txt" />
         <option value="$PROJECT_DIR$/top100videoSortedListByReviews.txt" />
+        <option value="$PROJECT_DIR$/TracksTwoSourceVectors.txt" />
+        <option value="$PROJECT_DIR$/top100TracksAmazon.json" />
         <option value="$PROJECT_DIR$/getYouTubeID.py" />
         <option value="$PROJECT_DIR$/similarityTask.py" />
       </list>
@@ -284,7 +330,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.similarityTask">
+  <component name="RunManager" selected="Python.getYouTubeViews">
     <configuration default="false" name="getTopTitles" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -410,9 +456,9 @@
     </list>
     <recent_temporary>
       <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.similarityTask" />
-        <item index="1" class="java.lang.String" itemvalue="Python.getYouTubeViews" />
-        <item index="2" class="java.lang.String" itemvalue="Python.getTopTitles" />
+        <item index="0" class="java.lang.String" itemvalue="Python.getYouTubeViews" />
+        <item index="1" class="java.lang.String" itemvalue="Python.getTopTitles" />
+        <item index="2" class="java.lang.String" itemvalue="Python.similarityTask" />
       </list>
     </recent_temporary>
   </component>
@@ -439,9 +485,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="58" width="1260" height="733" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25862068" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25862068" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39937598" sideWeight="0.5032841" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34165367" sideWeight="0.49671593" order="2" side_tool="false" content_ui="tabs" />
@@ -552,14 +597,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/top100videoId.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="34" lean-forward="false" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/top100playlistId.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -584,14 +621,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/top100trackAmazonTitle.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="68" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/top100videoSortedListByReviews.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="862">
@@ -600,10 +629,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/TracksTwoSourceVectors.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-883">
+          <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top100TracksAmazon.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="35037" column="1" lean-forward="false" selection-start-line="35037" selection-start-column="1" selection-end-line="35037" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top100album.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/getTopTitles.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="150">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
@@ -612,26 +665,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/getYouTubeID.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-275">
-          <caret line="28" column="58" lean-forward="false" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="58" />
+        <state relative-caret-position="214">
+          <caret line="38" column="17" lean-forward="false" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
           <folding>
             <element signature="e#18#27#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/similarityTask.py">
+    <entry file="file://$PROJECT_DIR$/cosineSimilarity.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="30" column="17" lean-forward="false" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+        <state relative-caret-position="-35">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TracksTwoSourceVectors.txt">
+    <entry file="file://$PROJECT_DIR$/similarityTask.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="165">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top100trackAmazonTitle.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="878" column="8" lean-forward="false" selection-start-line="878" selection-start-column="5" selection-end-line="878" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top100videoId.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="868" column="5" lean-forward="false" selection-start-line="868" selection-start-column="5" selection-end-line="868" selection-end-column="5" />
           <folding />
         </state>
       </provider>
