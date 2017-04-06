@@ -1,95 +1,826 @@
-Shape of You	JGwWNGJdvx8	643150906
-That's What I Like	PMivT7MJ41M	173909282
-Body Like A Back Road	Mdh2p03cRfw	21842526
-Issues	7dqMyh4ILIg	22895543
-24K Magic	UqyT8IEBkvY	578459479
-Say You Won't Let Go	0yW7w8F2TVA	320936994
-Tin Man	Y8PWkTnsrCo	923809
-Dirt On My Boots	gCxbgqyC2Wg	20777585
-Love On The Brain	0RyInjfgNc4	36871966
-Something Just Like This	FM7MFYoylVs	172968109
-In Case You Didn't Know	7qaHdHpSjX8	20582798
-Chained To The Rhythm	xcUrhjJSBI8	982767
-Blue Ain't Your Color	SoIKv3xxuMA	57557105
-It Ain't Me	D5drYkLiLI8	142259760
-HUMBLE.	tvTRZJ-4EyI	34225216
-Don't Wanna Know	ANS9sSJA9Yc	248098616
-How Far I'll Go	cPAbx5kgCJo	127174816
-The Fighter	GzT4p-OaJ5c	7071585
-Million Reasons	WYRJ-ryPEu0	52249298
-Humble And Kind	awzNHuGqoMc	40252089
-You're Welcome	79DijItQXMM	110920673
-Believer	7wtfhZwyrcc	23142627
-My Church	ouWQ25O-Mcg	26505188
-Mercy	KkGVmN68ByU	120392282
-Ask Me How I Know	-aeZJs7_oNM	30477
-Die A Happy Man	w2CELiObPeQ	105103035
-Girl Crush	JYZMT8otKdI	73741779
-Craving You	ooFnUCUI8Vg	413278
-H.O.L.Y.	zXDAYlhdkyg	141156324
-I Feel It Coming	qFLhGq0060w	65422171
-Better Man	ph9NQ8ASmX4	27454539
-Starboy	34Na4j8AVgA	874389388
-Rockabye	papuvlVeZg8	641514873
-Cold	XatXy6ZhKZw	64120871
-Different For Girls	xXeL3CHdLYk	17872278
-Peter Pan	JmU0b8bxlG8	28915853
-Black	auC2wUVdPWE	5788918
-Wagon Wheel	hvKyBcCDOB4	94099845
-Side To Side	SXiSVQZLje8	873926491
-God, Your Mama, And Me	QMhkdatUUPA	7976735
-May We All	PT4ryVop_Fc	33846384
-HandClap	Y2V6yjjPbX0	19571606
-Church Bells	N2-yVryNjUM	22888478
-House Party	1FhRhzAWzLA	43775293
-Down	DpMfP6qUSBo	8449504
-Dirty Laundry	lNzHARgbCG8	17145348
-All Time Low	AXnqkVTFUqY	34647769
-Perfect	1UQzJfsT2eo	66189525
-Mask Off	dgYHo2HV-EY	11324026
-Shiny	93lrosBEW-Q	70304979
-Speak to a Girl	V7jFginLXIU	43371
-Still Got Time	K4ZeDuKF4m8	7590314
-Scars To Your Beautiful	Em7vc8NWUNY	49671452
-Record Year	gvvYMxV6TmI	22912421
-Dirt Road Anthem	Lb9q1ScC4cg	77201784
-Galway Girl	XjHr-6Zl5P8	25005000
-We Know The Way	ubZrAmRxy_M	49570081
-Paris	RhU9MZ98jxo	209287571
-Closer	PT2_F-1esPk	1385003882
-How Far I'll Go	cPAbx5kgCJo	127174816
-Burnin' It Down	xdImDqbgc2g	64843461
-Drunk On A Plane	QrM39m22jH4	45055591
-Heathens	UprcpdwuwCg	715868448
-Hurricane	BixwVsiDdZM	18227893
-Where You Are	NVzDrqOmYiY	18490151
-Castle on the Hill	K0ibBPhiaG0	141602699
-Head Over Boots	3odIdmuFfEY	18395861
-Like A Wrecking Ball	dV0eMaIFlvA	25736256
-Hotel California	r3ebOxltJ1w	6945689
-Mean	jYa1eI1hpDE	154287689
-Play It Again	ALV-QtDFpSw	81361612
-The One	5bA7nrdVEqE	15706958
-Springsteen	l2gGXlW6wSY	33912904
-Shut Up and Dance	6JCLY0Rlx6Q	240940832
-God Gave Me You	nCf2PoTuh4Q	62431157
-Work from Home	5GL9JoH4Sws	1482543014
-Hello	YQHsXMglC9A	1928928693
-iSpy	4is83n8xfLY	19494849
-I Don’t Wanna Live Forever	7F37r50VUTQ	247418284
-Bad and Boujee	S-sJp1FfG7Q	331139276
-No Promises	JYY1yWoi600	490086
-Stitches	VbfpW0pbvaU	760990373
-Break Up In A Small Town	YOb4VUgRqo0	88290499
-Burning House	uyGSe76rAJc	26736291
-Sorry	fRh_vgS2dFE	2389906034
-Stressed Out	pXRviuL6vMY	917330498
-Me Too	qDRORgoZxZU	343973239
-Uptown Funk	OPf0YbXqDm0	2328064637
-Just the Way You Are	LjhCEhWiKXk	889805247
-Any Ol' Barstool	GoNAbDoXros	2170855
-Treat You Better	lY2yjAdbvdQ	856670338
-Middle of a Memory	PS9Wo0iQUsg	17915975
-Chopin: Nocturne No.2 in E Flat, Op.9 No.2	9E6b3swbnWg	32394160
-Hall of Fame	mk48xRzuNvA	282580658
-You Should Be Here	K8WlCqZPTeg	44216518
+Shape of You	JGwWNGJdvx8	643955014
+That's What I Like	PMivT7MJ41M	174242077
+Body Like A Back Road	Mdh2p03cRfw	21884461
+24K Magic	UqyT8IEBkvY	578595494
+Say You Won't Let Go	0yW7w8F2TVA	321024382
+Issues	7dqMyh4ILIg	22938533
+Tin Man	Y8PWkTnsrCo	925770
+HUMBLE.	tvTRZJ-4EyI	34503628
+Dirt On My Boots	gCxbgqyC2Wg	20793247
+Love On The Brain	0RyInjfgNc4	36899877
+Something Just Like This	FM7MFYoylVs	173096275
+In Case You Didn't Know	7qaHdHpSjX8	20622128
+Chained To The Rhythm	xcUrhjJSBI8	996110
+Blue Ain't Your Color	SoIKv3xxuMA	57580152
+It Ain't Me	D5drYkLiLI8	142471784
+How Far I'll Go	cPAbx5kgCJo	127243337
+The Fighter	GzT4p-OaJ5c	7083578
+We Should Be Friends	2fOxxRf_3XI	2941488
+Million Reasons	WYRJ-ryPEu0	52261742
+Don't Wanna Know	ANS9sSJA9Yc	248154161
+Humble And Kind	awzNHuGqoMc	40256348
+You're Welcome	79DijItQXMM	110985381
+My Church	ouWQ25O-Mcg	26509241
+Mercy	KkGVmN68ByU	120424628
+Ask Me How I Know	-aeZJs7_oNM	30607
+Die A Happy Man	w2CELiObPeQ	105109569
+Girl Crush	JYZMT8otKdI	73748903
+Believer	7wtfhZwyrcc	23196432
+Craving You	ooFnUCUI8Vg	418897
+H.O.L.Y.	zXDAYlhdkyg	141184665
+I Feel It Coming	qFLhGq0060w	65550249
+Better Man	ph9NQ8ASmX4	27467192
+Rockabye	papuvlVeZg8	641932689
+Starboy	34Na4j8AVgA	874692734
+Cold	XatXy6ZhKZw	64167848
+Different For Girls	xXeL3CHdLYk	17873408
+Peter Pan	JmU0b8bxlG8	28917617
+Black	auC2wUVdPWE	5790602
+Side To Side	SXiSVQZLje8	874071769
+Wagon Wheel	hvKyBcCDOB4	94106816
+God, Your Mama, And Me	QMhkdatUUPA	7988523
+May We All	PT4ryVop_Fc	33856537
+Down	DpMfP6qUSBo	8474447
+HandClap	Y2V6yjjPbX0	19575002
+Church Bells	N2-yVryNjUM	22890467
+House Party	1FhRhzAWzLA	43780491
+Dirty Laundry	lNzHARgbCG8	17147868
+Perfect	1UQzJfsT2eo	66266352
+Mask Off	dgYHo2HV-EY	11324171
+Shiny	93lrosBEW-Q	70349563
+Speak to a Girl	4MzJKeMv8co	1568408
+Scars To Your Beautiful	Em7vc8NWUNY	49683780
+Dirt Road Anthem	Lb9q1ScC4cg	77206642
+Galway Girl	XjHr-6Zl5P8	25044818
+We Know The Way	ubZrAmRxy_M	49591684
+How Far I'll Go	cPAbx5kgCJo	127243337
+Record Year	gvvYMxV6TmI	22913971
+Paris	RhU9MZ98jxo	209370145
+Closer	PT2_F-1esPk	1385273578
+Burnin' It Down	xdImDqbgc2g	64848982
+Drunk On A Plane	QrM39m22jH4	45058166
+Hurricane	BixwVsiDdZM	18237599
+Heathens	UprcpdwuwCg	715968212
+Where You Are	NVzDrqOmYiY	18495010
+All Time Low	AXnqkVTFUqY	34671846
+Castle on the Hill	K0ibBPhiaG0	141636444
+Like A Wrecking Ball	dV0eMaIFlvA	25738048
+Head Over Boots	3odIdmuFfEY	18398615
+Still Got Time	K4ZeDuKF4m8	7601422
+Hotel California	r3ebOxltJ1w	6948596
+Mean	jYa1eI1hpDE	154292754
+Play It Again	ALV-QtDFpSw	81366605
+The One	5bA7nrdVEqE	15757807
+Springsteen	l2gGXlW6wSY	33913788
+Shut Up and Dance	6JCLY0Rlx6Q	240948068
+Hello	YQHsXMglC9A	1928991725
+iSpy	4is83n8xfLY	19590821
+I Don’t Wanna Live Forever	7F37r50VUTQ	247581501
+Bad and Boujee	S-sJp1FfG7Q	331203602
+No Promises	JYY1yWoi600	495372
+Stitches	VbfpW0pbvaU	761034084
+Break Up In A Small Town	YOb4VUgRqo0	88304486
+Burning House	uyGSe76rAJc	26738333
+Sorry	fRh_vgS2dFE	2390110797
+Stressed Out	pXRviuL6vMY	917418181
+Me Too	qDRORgoZxZU	343998001
+Homegrown	8N8_CRpL6wk	10188039
+Just the Way You Are	LjhCEhWiKXk	889840933
+Uptown Funk	OPf0YbXqDm0	2328233291
+Work from Home	5GL9JoH4Sws	1482686627
+Treat You Better	lY2yjAdbvdQ	856773284
+Middle of a Memory	PS9Wo0iQUsg	17921217
+Any Ol' Barstool	GoNAbDoXros	2175386
+Chopin: Nocturne No.2 in E Flat, Op.9 No.2	9E6b3swbnWg	32400705
+Hall of Fame	mk48xRzuNvA	282592527
+Counting Stars	hT_nvWreIhg	1739511930
+Happier	8TpcBDJZsJA	26071934
+Fire Away	ZI-aPHeUDlk	29142867
+Ride	Pw-0pbY9JeU	421780376
+Suite bergamasque: Clair de lune	vG-vmVrHOGE	3307176
+Starving	xwjwCFZpdns	154408068
+That's My Kind Of Night	crCqWK3SmRo	78950675
+NO	cMTAUr3Nm6I	423941121
+Bounce Back	phr1pOFK1V8	87451651
+Love Yourself	oyEuk8j8imI	1115166022
+Dark Horse	0KSOMA3QBU0	1799848805
+How Far I'll Go	cPAbx5kgCJo	127243337
+Make You Miss Me	0cCSESF6at0	6780171
+Thinking Out Loud	lp-EO5I60KA	1574641779
+Lights Come On	-5cv1d_m4g0	12089587
+Kill A Word	1MH07rieK8w	1896004
+This Town	ic1l36GrNOU	11797055
+Canon in D	qVn2YGvIv0w	15004038
+Fight Song	xo1VInw-SKc	264615847
+Just Like Fire	5Nrv5teMc9Y	154976603
+From the Ground Up	ODRWKGIxB4M	20962629
+What Ifs	BGV5Yom8JEY	2990142
+Dive	Wv2rLZmbPMA	19046710
+Unaccompanied Cello Suite No. 1 In G Major, BWV 1007: Prélude	DwHpDOWhkGk	5373846
+Water Under the Bridge	XzkjjxqL24Y	73908
+Huntin', Fishin' And Lovin' Every Day	6l3ukWqRU4s	72813453
+Sugar	09R8_2nJtjg	1899512749
+Wanna Be That Song	n-RnmA8j0ZQ	17568312
+An Innocent Warrior	3kKREKoRTMQ	6441417
+Chandelier	2vjPBrBU-TM	1556057061
+2 Arabesques: Arabeque No. 1	9Fle2CP8gR0	693889
+Piano Concerto No.5 In E Flat Major Op.73 - ''Emperor'' - 2. Adagio Un Poco Mosso	mdOvxcFKUMg	278469
+I'm Comin' Over	hxcmik9Rs40	50370411
+Cruise	8PvebsWcpto	99894532
+Send My Love	fk4BbF7B29w	366470246
+Tulou Tagaloa	sl1fSuPiIdA	8669721
+Kick The Dust Up	bhnaqcUZ7GQ	19991185
+Setting the World On Fire	mDBxlVLTaQA	10459018
+Take Your Time	iXi6IHFHeIA	133200383
+Don't Let Me Down	Io0fBr1XBUA	689650978
+American Kids	de1aPKXBdAE	23653641
+Mozart: Fantasia in D Minor, K.397	OYiz_u0tDwM	393872
+Cheap Thrills	nYh-n7EOtMA	811483790
+Tennessee Whiskey	4zAThXFOy2c	68288569
+You Should Be Here	K8WlCqZPTeg	44220369
+Talladega	rek_Cxrc1pE	18934574
+Passionfruit	ORS3Y2hIRsA	732277
+Strip It Down	G2BWyY4B36Y	31530109
+Handel: Water Music Suite / Water Music Suite in F Major - Air	9XMl4nrr4FM	2440
+I Am Moana	e2Lm1-W0jow	22085400
+Sangria	KoQrH6EMnas	31692232
+Gianni Schicchi: O mio babbino caro	dI17VdRfCek	650229
+Roar	CevxZvSJLk8	1906184846
+A Guy With a Girl	dnDYhIQ-YOI	6990295
+A Little More Summertime	UGU7EsjOAwk	10637066
+Everyday	oHmBf4ExtZk	45294134
+Beautiful Drug	jrhYJLT7XoU	7910353
+Work	HL1UzIK-flA	852785798
+Goldberg Variations, BWV 988: Goldberg Variations, BWV 988: Aria	7hkw4rw3ong	147333
+Needed Me	wfN4PVaOU5Q	138431488
+You Look Good	3yxmCqikFss	1808797
+Beethoven: Piano Sonata No.14 In C Sharp Minor, Op.27 No.2 -"Moonlight" - 1. Adagio sostenuto	5F2lsBAkjzA	1054
+Handel: Water Music Suite - Water Music Suite in G Major - Menuet & Trio	KB3wlDzicD4	9451
+T-Shirt	1VUa99-tJqs	76619121
+80s Mercedes	m9md97nN_SQ	6616414
+Traveller	_kBnFgLP8po	12909080
+Take Me to Church	MYSVMgRr6pw	372938523
+Chunky	oacaq_1TkMU	22525122
+Beethoven: Symphony No.7 In A, Op.92 - 2. Allegretto	vCHREyE5GzQ	2385496
+Logo Te Pate	kAMRpchLUXU	705571
+Haydn: String Quartet in E Major, Hob.III:8,  - 3. Adagio	Lm7-N3Oelyo	6135
+Wanted	_5vb-0_Qppk	6692255
+Tunnel Vision	JzSUgOmP66Q	97459444
+The Sound Of Silence	u9Dg-g7t2l4	207214238
+Death Of A Bachelor	R03cqGg40GU	58882311
+goosebumps	XJjUzV3XHhQ	1708406
+Cold Water	a59gmGkq_pw	725935920
+Ophelia	pTOC_q0NLTk	48240408
+Think of You	9YyGCwvFm-U	22099736
+Light My Body Up	cie140M_Wjo	7388607
+Know Who You Are	EboJrjl_ELI	11090649
+Sit Still, Look Pretty	uPHKkewD1G0	14529881
+Brahms: 16 Waltzes, Op.39 - 15. In A Flat	jKTY7wS6NS4	6056
+Move	88JX07qeAf0	7660939
+Go Your Own Way	6ul-cZyuYq4	62301986
+Bad Things	QpbQ4I3Eidg	128169553
+Snapback	FLQATzCyxfE	11899040
+How Not To	SMXOPi2iHSY	2450713
+Weak	txCCYBMKdB0	2089975
+When We Were Young	DDWKuo3gXMQ	215326701
+Knee Deep	9n5G0qFBsHM	19101197
+Bar at the End of the World	YO0r7pqhdJQ	1058222
+All About That Bass	7PCkvCPvDXk	1841511320
+Buy Me A Boat	mQPjKSVe1tQ	51269962
+Think A Little Less	ErZHI7lDLj8	1496471
+Goldberg Variations, BWV 988: Goldberg Variations, BWV 988: Variatio 1 a 1 Clav.	LzTMrw9geFw	14066
+Thumbs	uAVUl0cAKpo	21209672
+The Heart Part 4	lbYIUnV8u7E	5183917
+Dreams	mrZRURcb1cM	33935493
+Stay With Me	pB-5XG-DbAA	727016505
+Portland	1rAaxAANVGE	219326
+Brave	QUQsqBqxoR4	64970860
+Stay	h--P8HzYZ74	66503470
+Came Here to Forget	FaWH5TWzDCk	24614189
+Grieg: Holberg Suite, Op.40 - 2. Sarabande	DmPMZGBBmxk	7696
+Call Me Maybe	fWNaR-rxAic	942828502
+When I Was Your Man	ekzHIouo8Q4	513613054
+Back In Black	pAgnJDJN4VA	236920087
+Let It Go	L0MK7qz13bU	1044103751
+We Will Rock You	-tJYN-eG1zk	146252005
+Demons	GFQYaoiIFh8	146521725
+If I Told You	7LBCFyUw8gM	5397473
+Don't Stop Believin'	KCy7lLQwToI	56822670
+Play That Song	J5qWnG5RQTk	13645451
+Renegades	8j741TUIET0	59901026
+Pumped Up Kicks	SDTZ7iX4vTQ	271786174
+T-Shirt	1VUa99-tJqs	76619121
+Albinoni: Adagio In G Minor	XMbvcp480Y4	25772819
+7 Years	LHCob76kigA	508839063
+Bartender	Lt2wjJlP2N4	95729493
+New Man	EwzD8U4u76k	17669742
+Black Beatles	b8m9zhNAgKs	466387915
+This Is How We Roll	CbxuXq_981s	103093247
+Blown Away	pJgoHgpsb9I	35298937
+Slide	WFQqAZBOwfQ	8492542
+We Know The Way	ubZrAmRxy_M	49591684
+Song for Another Time	lZ0QFmzl1kw	7876206
+Spirits	F9kXstb9FF4	40928441
+Back To December	QUwxKWT6m7U	158452312
+Comfortably Numb	_FrOQC-zEog	57833954
+Mozart: Piano Concerto No. 15 in B flat major, K.450 - 2.	0hpw6CHp_WE	139432
+Just Give Me a Reason	OpQFFLBMEPI	664500593
+Outlaw State Of Mind	lRLu1-8vi9o	304208
+Adventure Of A Lifetime	QtXby3twMmI	521566316
+My House	uo35R9zQsAI	198974439
+Four Seasons, Op.8 , Spring: Allegro	ygpf6mxTUeY	3609759
+She's Got a Way With Words	iW5Cf64d7KA	16010950
+Waltz No. 15 in A-Flat Major, Op. 39	T76yj0JtAPU	39619
+You Shook Me All Night Long	Lo2qQmj0_h4	55276206
+No Problem	DVkkYlQNmbc	97278486
+Stay	h--P8HzYZ74	66503470
+Dirt	42uphHWxmFU	54568250
+Honey, I'm Good.	Go7gn6dugu0	69028152
+3 Gymnopedies : No. 2: Lent et triste	gB-7FchzQEs	886
+All Of Me	450p7goxZqg	1075793262
+String Quartet No. 3 : Mishima/Closing	_4XMeY1RkWQ	157280
+Green Light	dMK_npDG12Q	42801602
+Sibelius: Valse triste, Op.44	q6wGEap3lHs	88022
+Mozart: Flute Concerto No.1 in G, K.313 - 2. Adagio non troppo	gPswaJUnaQE	2460
+Handel: Water Music Suite in D Major, HWV 349 - Hornpipe	664QhBOhBgc	98775
+Royals	nlcIKh6sBtc	651665654
+Pontoon	V0O0nzkESTI	32920214
+Unaccompanied Cello Suite No. 1 In G Major, BWV 1007: Allemande	GrLZBMhNbsI	1412
+Desperado	GhKJ9ig7I1c	9540674
+Moves Like Jagger	iEPTlhBmwRg	497627533
+Swang	dmJefsOErr0	75619921
+Perm	ftXmvnL0ZOc	13579975
+Heavy	5dmQ3QWpy1Q	16928011
+Sweet Child O' Mine	1w7OgIMMRc4	458800501
+Chopin: Cello Sonata In G Minor, Op.65 - 3. Largo	bd0fRsYbxW8	37419
+Brahms: String Sextet No.1 in B flat, Op.18 - 2. Andante ma moderato	tYTfnYHXQpA	98928
+She Will Be Loved	nIjVuRTm-dc	372696700
+Shostakovich: String Quartet No.15 In E Flat Minor, Op.144 - 4. Nocturne	HyVjzSwOnjg	3107
+Daddy Doesn't Pray Anymore	4nTch_IbOHE	5829682
+Evermore	tPcxqpMbcSg	5158502
+Quintetto No. 4 in Re Maggiore "Fandango" per Corda e Chitarra, G. 448: Pastorale	c_a3b8oACKs	72
+Smells Like Teen Spirit	hTWKbfoikeg	518084947
+Tear In My Heart	nky4me4NP70	116244178
+Free Smoke	5C0is9sPHpQ	92078
+Elgar: Nimrod	sUgoBb8m1eE	3590365
+Do It Again	cNw8A5pwbVI	296265093
+Somebody Else Will	JWvzaoYSD8o	1255425
+How Would You Feel	wY473jAptyw	29248448
+Let It Be	ih-8K1a_SsA	1868002
+Dust in the Wind	tH2w6Oxx0kQ	74461372
+Leave The Night On	BuMiMBjcvWU	61223811
+Scarlatti: Sonata In E, Kk.380 - Andante commodo	wfHrYBMYkFE	6581
+Drink A Beer	RM5aW83L_DE	22602918
+Livin' On A Prayer	lDK9QqIzhwk	320191041
+Heavydirtysoul	r_9Kf0D5BTs	23786997
+Was It 26	bIyjedRGMwE	177583
+Chicken Fried	e4ujS1er1r0	52095284
+Running On Empty	jC-pkV1s0Zc	2446696
+Like I'm Gonna Lose You	2-MBfn8XjIU	371408853
+Crash and Burn	heyIXXCfyaM	43470857
+You're Welcome	79DijItQXMM	110985381
+Even If	B6fA35Ved-Y	3162371
+Rise	hdw1uKiTI5c	108690416
+Into You	TFYjVqsNNrA	39483456
+Fast	QH35AWCnugg	2869755
+I Bet My Life	4ht80uzIhNs	78408829
+Wonderful Tonight	xl7Hd2r0LOs	16401733
+The Devil Named Music	xID9b3ShwZ0	3757332
+For Her	ejAkSts69WU	5285655
+Vacation	1GqhBP2Pp6o	11196217
+Chopin: Nocturne No.20 In C Sharp Minor, Op.posth.	_hyAOYMUVDs	3590976
+I Like The Sound Of That	TIwKZLcQM0E	12712702
+Redeemed	VzGAYNKDyIU	20205369
+Wish You Were Here	IXdNnw99-Ic	119323787
+Swalla	NGLxoKOvzu4	55076441
+Supermarket Flowers	bIB8EWqCPrQ	24130851
+Out of Africa: Main Title	UwhxhywkPbs	48781
+Fake Love	6CQJlY9UCjo	35301432
+I Know Somebody	XgBFV7xhOXo	6782556
+Say Something	-2U0Ivkn2Ds	329988203
+Hard To Love	XpVtPSlUr3I	14869435
+A Thousand Years	rtOvBOTyX00	576615556
+Stand By You	bwB9EMpW8eY	73254557
+What Do You Mean?	DK_0jXPuIr0	1604875577
+Sweater Weather	GCdwKhTtNNw	167510286
+Hymn For The Weekend	YykjpeuMNEk	705738901
+Eraser	OjGrcJ4lZCc	20677953
+Lord, I Need You	_rR_Rdb1CTE	25227725
+String Quartet No. 5: II.	didMtWdUsY4	31118
+Versace On The Floor	d2UZlwTDGbY	81523908
+More Of You	qYXjXi8PtzQ	5906069
+Ho Hey	zvCBSSwgtg4	167599166
+Nancy Mulligan	VFlZXlfda6Y	21997980
+Billie Jean	Zi_XLOBDo_Y	284400670
+When The Stars Come Out	4laaHlLBYdk	6219367
+Break Up with Him	VrgCwAM06Yg	24925833
+Borodin Polovetsian Dances From Prince Igor	QWU1uj9WmOM	127001
+Location	by3yRdlQvzs	27138276
+Beethoven: String Quartet No.16 In F, Op.135 - 3. Lento assai, cantante e tranquillo	jmu4Q6JLz18	35698
+Party	Z9eMk051dYg	110709890
+Nocturne No. 20 in C-Sharp Minor, Op. posth	_hyAOYMUVDs	3590976
+Little Red Wagon	TQK0d72Jom8	26304360
+Dear Future Husband	ShlW5plD_40	334443615
+What Do I Know?	6B9J3lEyffA	28366992
+Timber	hHUbLv4ThOo	920562902
+Another One Bites The Dust	rY0WxgSXdEE	131264954
+Kashmir	ZDwotNLyz10	18223186
+Stolen Dance	iX-QaNzd-0Y	304942033
+Landslide	K_PQ4fRQ5Kc	3155065
+Saint-Saëns: Le Carnaval des Animaux - Ed. L. Rose - Le Cygne	3qrKjywjo7Q	1204187
+Here I Go Again	oohFGOmcxuo	10776151
+Elastic Heart	KWZGAExj-es	794260275
+Barcelona	I5VTNvClOwM	466289
+Four Seasons op.8 , Summer: Adagio	ygpf6mxTUeY	3609759
+Me And Bobby McGee	WXV_QjenbDw	13352616
+Boys 'Round Here	JXAgv665J14	60755659
+Let It Go	L0MK7qz13bU	1044103751
+The Girl with Flaxen Hair	TOxJpPiFe0k	49648
+Country Girl	7HX4SfnVlP4	48115190
+Both	eu1AHz4MV2g	12742930
+Let Her Go	RBumgq5yVrA	1395404835
+Caroline	3j8ecF8Wt4E	134163937
+Gayane: Gayane's Adagio	K6ZBSdjzKfk	218826
+Schubert: String Quintet In C, D. 956 - 2. Adagio	aROxGePMruw	33463
+Gasoline	zRHNi3QfFlE	43587312
+Same Old Love	9h30Bx4Klxg	297890286
+More Than a Feeling	SSR6ZzjDZ94	77406408
+God's Not Dead	S_OTz-lpDjw	55561959
+A Horse with No Name	zSAJ0l4OBHM	25888905
+Wild Things	De30ET0dQpQ	37217533
+Somebody That I Used To Know	8UVNT4wvIGY	882375522
+Borodin: Nocturne	CTPrcBAq28Q	92340
+Shake It Off	nfWlot6h_JM	2028568183
+Johann Sebastian Bach, Book 1 Fugue 02	87UykKYAS4w	48
+Hearts Don't Break Around Here	20pAJPNaAyw	12811997
+Lips Are Movin	qDc_5zpBj7s	445899898
+Somethin' Bad	o4Yzj-m_SBk	67257583
+Take On Me	djV11Xbc914	389267001
+Pillowtalk	C_3d6GntKbk	702909566
+Waste A Moment	AmAaWCFlxEE	12269872
+Can't You Hear Me Knocking	3fa4HUiFJ6c	18490450
+Viva La Vida	dvgZkm1xWPE	388637217
+Basket Case	NUTGr5t3MoY	100919159
+My Songs Know What You Did In The Dark	LkIWmsP3c_s	105530827
+Beat It	Ym0hZG-zNOk	85734818
+Gyalchester	deGNPdzADDY	66179
+Here Comes The Sun	bgiQD56eWDk	6608539
+All I Ask	oCtYekG1qBc	14110639
+Goldberg Variations, BWV 988: Goldberg Variations, BWV 988: Variatio 3 a 1 Clav. Canone all'Unisuono	tISn_L-QnAg	42220
+Eye of the Tiger	btPJPFnesV4	270591503
+The A Team	UAWcs5H-qgQ	217751590
+Congratulations	SC4xMk98Pdc	86698773
+Eye of the Storm	-sx8wTnnfSc	4413545
+Grieg: Peer Gynt Suite No.1, Op.46 - 2. The Death Of Aase	tJupBzBdOKw	9425
+Into The Mystic	CEvsDuJYEnI	2153417
+Come with Me Now	Gz2GVlQkn4Q	64739708
+What Makes You Beautiful	QJO3ROT-A4E	844962358
+Crazy Train	ZDZtbBZuqb0	2840276
+Redbone	Kp7eSUU9oy8	36965829
+Try	GXoZLPSw8U8	70574512
+Grenade	SR6iYWJxHqs	641925515
+Tom Sawyer	auLBLk4ibAk	12430035
+Belle	egQbaDRMxGI	5909832
+Rolex	rCx4NFNuYgI	42048804
+Concerto grosso in G minor, Op.6, No.8 'fatto per la notte di Natale' - 6. Pastorale: Largo	mU3nxeo3L4E	11127
+Toes	lB8Nkn3Xjes	29847133
+Make Me	vXyBcKV0UIo	68897430
+Want to Want Me	rClUOdS5Zyw	334137163
+Smoke On The Water	zUwEIt9ez7M	53301677
+Right Down The Line	NSfOB8ANdWU	15797092
+The Chain	pcawnRIyeok	13650273
+Lean On	YqeW9_5kURI	1963279170
+Electric Love	RYr96YYEaZY	15003845
+Here	UKp2CrfmVfw	125085404
+Day Drinking	-NPqM3vPDg8	8932838
+Elgar: Salut d'amour, Op.12	ecM7_3rs5gU	183557
+One Hell Of An Amen	8IMn4c4MwM0	35474429
+Yeah Boy	G61A4RDotvA	3003360
+Radioactive	ktvTqknDobU	657978823
+Someone Like You	hLQl3WQQoQ0	852653564
+Makin’ Me Look Good Again	WTBQ05KuaZE	8356
+Party Monster	diW6jXhLE0E	45306617
+What A Fool Believes	dJe1iUuAW4M	10430878
+Set It All Free	-ZaM88RAZrE	2673300
+Slow Ride	GcCNcgoyG_0	23098934
+Ain't No Rest for the Wicked	HKtsdZs9LJo	18830760
+Xo Tour Llif3	Zgmvg-zzctI	21379481
+Highway to Hell	qKggnBh2Mdw	50950789
+Sergio Leone Suite: Deborah's Theme From Once Upon A Time In America	GXbHK3OClvE	26145
+Trust In You	n_aVFVveJNs	31744353
+Star Of The Show	w8O-XzhtKGs	8183231
+Simple Man	sMmTkKz60W8	28060929
+I Wanna Dance with Somebody	eH3giaIzONA	80710253
+Cello Concerto, Op. 22: II. Andante Sostenuto	1znYukzFUVM	59505
+Songs My Mother Taught Me, Op. 55, No. 4	0yQhMH17ZeM	16182
+Chopin: Nocturne No.11 In G Minor, Op.37 No.1	9PB3bYaWosM	348708
+Say It Ain't So	ENXvZ9YRjbo	50284305
+Bumpin' On Sunset	dqn3PF_DcSg	836358
+Good Good Father	CqybaIesbuA	14997809
+J.S. Bach: The Art Of Fugue, BWV 1080 - Version For String Quartet - Contrapunctus I	6o5r5G1ScEc	127133
+If You Leave Me Now	OlKaVFqxERk	47238999
+Dream On	hHRNSeuvzlM	52836369
+Drink In My Hand	usGv0gB2zEU	29708798
+Blackbird	Mo_DMGc2v5o	5780791
+Somewhere In My Car	RPILrZTBedY	12795222
+Small Town Boy	BSDxUVZJwTg	2851244
+Hey Jude	A_MjCqQoLLA	53213132
+Set Fire to the Rain	FlsBObg-1BQ	373837916
+Sucker For Pain	-59jGD4WrmE	383214677
+You Was Right	55iN4H6kRN4	59259274
+Flatliner	zPYitm8kIcg	162075
+50 Ways to Say Goodbye	GSBFehvLJDc	39638185
+Save Myself	qXM0JdAwabU	22288368
+American Country Love Song	WnyOOSE0z1c	12113613
+I Got You	uEJuoEs1UxY	117480838
+Seven Nation Army	0J2QdDbelmY	129579450
+Low Life	K_9tX4eHztY	325324500
+This Is What You Came For	kOkQ4T5WO9E	1474415021
+Blem	6CEsXT5vYVo	205735
+Somewhere On A Beach	JgpmFp2DViA	32289827
+X	SpXw0qiy3Wo	36675193
+Tiny Dancer	KBWfUc5jKiM	12000901
+Dona Nobis Pacem	9fhJ6XrZ4jg	1177356
+Rutter: Lullaby For Ana Gwen	2wSFwpfbP20	31835
+Borodin - String Quartet No.2 in D major: I. Allegro moderato	aJ1vgoroZVw	20211
+Silk Road	Dc5Zeobri74	216766
+Bibia Be Ye Ye	eQlveAt9e88	14947942
+The Hills	yzTuBuRdAyA	1040220906
+Dangerous Woman	9WbCfHutDSE	344039079
+Really Really	pR0VsbyZxWg	141597366
+In the Name of Love	AeGfss2vsZg	295274539
+Serenade In G, K.525 ''Eine Kleine Nachtmusik'' - 4. Rondo	wYL6q8WA6Yc	65772
+Friends in Low Places	p0_der_5hRM	5369834
+I Could Use a Love Song	DJ-B9ntKOnw	632768
+Thriller	sOnqjkJTMaA	399726106
+Forever Country	s9gAXwYZtfk	16776853
+Rolling in the Deep	rYEDA3JcQqw	1081444217
+It Ain't My Fault	eC-F_VZ2T1c	157946179
+Tell Your Heart to Beat Again	F77v41jbOYs	11793564
+Confident	cwLRQn61oUY	188601867
+Drunk On Your Love	pxdOHJjjNek	10785178
+Carry on Wayward Son	2X_2IdybTV0	66812323
+Guys My Age	3LzWUAkpNrQ	11613761
+My Old Man	T_uGcW-v5EI	3817935
+Thunderstruck	v2AC41dglnM	265358322
+Can't Feel My Face	KEI4qSrkPAs	769789258
+Jar Of Hearts	8v_4O44sfjM	259553699
+Stairway To Heaven	IS6n2Hx9Ykk	4792125
+Life In The Fast Lane	rsYhDSR9mGI	134045
+String Quartet No. 2 in D Major: III. Nocturne	z5I4Y-DoA60	6482
+Maggie May	bxtCqs2WFZE	1304379
+I Can't Tell You Why	lsLNHLn_jfM	18463
+Castle	1rfSHisyHdc	30509428
+Dancing On My Own	q31tGyBJhRY	151224672
+Unstoppable	Xydf351l-gw	6507254
+Closer	PT2_F-1esPk	1385273578
+Down With The Sickness	L78yVFeyvRo	23775049
+Beethoven: Symphony No.6 In F, Op.68 - "Pastoral" - 3. Lustiges Zusammensein der Landleute	9lrD0bDvRJY	2544
+Born This Way	wV1FrqwZyKw	203802491
+Fire And Rain	C3uaXCJcRrE	8526274
+Sharp Dressed Man	7wRHBLwpASw	11730387
+If I Die Young	7NJqUN9TClM	135393871
+Chain Breaker	JGYjKR69M6U	9086318
+Bohemian Rhapsody	fJ9rUzIMcZQ	353313062
+Burn	CGyEd0aKWZE	1088492640
+How Can It Be	Wt5X91ciE6Y	27960059
+Faith	opGJR_dBEvY	5589652
+Sacrifices	jaTHowy7jro	366540
+Love Story	8xg3vE8Ie_E	363429841
+Ave Maria	2bosouX_d8Y	63663600
+Welcome To The Jungle	o1tj2zJ2Wvg	194192363
+Unsteady	V0lw3qylVfY	51422573
+Life's Been Good	BXWvKDSwvls	14939439
+Juju On That Beat	a2v_zGWawP0	189726040
+Panda	lsJLLEwUYZM	364786777
+Whom Shall I Fear	qOkImV2cJDg	51172265
+Rap God	XbGs_qK2PQA	449563056
+Love Me Now	NmCFY1oYDeM	97095888
+Glycerine	hOllF3TgAsM	6132561
+Heartbeat	uGGIrvWIFKw	5556028
+Loving You Easy	6LPDBZXgdA0	9768539
+With A Little Help From My Friends	nCrlyX6XbTU	4145053
+Close	XgJFqVvb2Ws	183288622
+Count On Me	A-OxRox4Wvk	850229
+Gaston	F16O5OAK2K8	3032427
+This Is Amazing Grace	XFRjr_x-yxU	29118849
+Our God	01Yj7H-eSjM	2046412
+I Can Only Imagine	N_lrrq_opng	11716886
+Beauty and the Beast	axySrE0Kg6k	60750308
+All The Small Things	9Ht5RZpzPqw	151636780
+Deja Vu	XEvKn-QgAY0	42362170
+Never Grow Up	fq34Zy0s1mA	3451597
+I Lived	KINfQbfZwik	11415060
+The House That Built Me	DQYNM6SjD_o	30590651
+Viola Concerto in G major, TWV 51:G9: II. Allegro	p3MH-SO8dFM	120758
+I Don't Dance	fBEBbgQEJy4	22497636
+Summer Of '69	9f06QZCVUHg	64098297
+String Quartet No. 4 : II.	L85XTLr5eBE	29463
+We Win	b1spMcpXBIQ	63336
+Victorious	AUChk0lxF44	38457065
+Creep	XFkzRNyygfk	202031594
+Controlla	wdRDWeDeLBY	35939850
+Sleep Without You	H06Ep1MTRW0	17356370
+Hometown Girl	nigbkofLWGY	8489688
+Grieg: Holberg Suite, Op.40 - 1. Präludium	sqtnsY69RQc	950
+Come Together	4ZWDlvtXE6w	261795
+Draco	OnhXkCPMeMc	29189631
+City Lights	Da8wwVzEROg	591582
+Baby	kffacxfA7G4	1583745726
+Perfect Illusion	Xn599R0ZBwg	90341565
+Chill Bill	J7IMwop3RHs	80699162
+Ex's & Oh's	0uLI6BnVh6w	103752287
+Come Alive	7XAeyFagceQ	9607970
+Be Our Guest	afzmwAKUppU	17130006
+Hands To Myself	FMlcn-_jpWY	201738990
+Yellow Ledbetter	hs8y3kneqrs	41474263
+Colder Weather	oouFE51HcqM	30841592
+Moves	7cIkC7s3d2o	19084013
+Chillin' It	Mh-eN--JK8Q	25737933
+Rich	KsC0x-LSLNo	732739
+Straight Up & Down	2iAsddrkJSs	4554531
+Slippery	jPajWtrDRFk	19127373
+Serenade In G, K.525 ''Eine Kleine Nachtmusik'' - 2. Romance	B_cCreWLds0	289345
+No Long Talk	8FyJKCyUKhw	97912
+Barefoot Blue Jean Night	aRh-vBOS-dU	24698825
+Piano Man	gxEPV4kolz0	66389627
+The Night We Met	KtlgYxa6BMU	820762
+Mozart: Piano Sonata No.10 in C major, K.330 - 2. Andante cantabile	2MdRTmZlsCU	1475
+Nocturne No. 2 in E flat major, Op. 9, No. 2	5ZUw78FXpG4	4950910
+Marry You	Zlv1rdcpS9M	122479306
+Million Years Ago	9LMDg6awPq8	2946833
+That's My Girl	sY3rIlrTTh8	120974854
+Breezeblocks	rVeMiVU77wo	130579270
+Car Radio	92XVwY54h5k	141560616
+Love Runs Out	0OWj0CiM8WU	97433798
+Cool Kids	SSCzDykng4g	78619534
+Wanted Dead Or Alive	SRvCvsRp5ho	79535515
+Come Over	N1GfEl8XUc4	26105866
+Beautiful Day	co6WMzDOh1o	90196437
+Evil Woman	s98UgBSNoL4	765826
+Stronger	PsO6ZnUZI0g	236910176
+Sober Saturday Night	ECEbBJq5pvM	6242951
+Genghis Khan	P_SlAzsXa7E	16781074
+Oceans	FBJJJkiRukY	30669302
+Revelation Song	D-zk-E55dRk	10197997
+It Is Well	YNqo4Un2uZI	24073650
+Mozart: Piano Sonata No.16 in C, K.545 "Sonata facile" - 2. Andante	SDG199MRF-o	141410
+Bulls on Parade	3L4YrGaR8E4	18151915
+Somewhere With You	n56hFE9Aquc	11423386
+Bring Me To Life	3YxaaGgTQYM	350975833
+Free Bird	np0solnL1XY	47964360
+Mona Lisas And Mad Hatters	9tRgYfQ48A0	2126176
+No Rain	3qVPNONdF58	11670100
+I Gotta Feeling	uSD4vsh1zDA	287634898
+Confession	vwkYxPpmEPE	19050667
+Try Everything	c6rP-YP4c5I	272143714
+Alexander Hamilton	yIl1OIGzuDg	14073592
+Something	dZfmPREbTd8	3793960
+The Final Countdown	9jK-NcRmVcw	312668619
+Beast Of Burden	-tRdBsnX4N4	15042662
+Free Fallin'	1lWJXDG2i0A	27976673
+Cigarette Daydreams	opeETnB8m8w	15617778
+All The Way Up	y2ak_oBeC-I	102643493
+Some Nights	qQkBeOisNM0	157834968
+Imagine	NLiWFUDJ95I	8463513
+I Mean It	CxnaPa8ohmM	219325032
+Who Am I	mBcqria2wmg	57871933
+At The Cross	00Nci1ATvPg	17140455
+Gimme Shelter	RbmS3tQJ7Os	2766285
+Wake Me up Before You Go-Go	pIgZ7gMze7A	142006993
+Brahms: Rhapsody In G Minor, Op.79, No.2	Sr2q8-Sr__A	410852
+Man in the Mirror	P5vz6iwV38U	40414168
+Give Me Back My Hometown	l5DnNxDTjbQ	18837691
+Stay A Little Longer	zY6cMMtLCcQ	14028517
+Heartbeat Song	d4_6N-k5VS4	58822849
+Call on Me	I-VsisgVkHw	23938814
+Mozart: Piano Sonata No.1 in C, K.279 - 2. Andante	ZixdOZh7zo4	596266
+Come As You Are	vabnZ9-ex7o	194465435
+Never Going Back Again	sKj1EFeU-cM	4561506
+Identity	2l5SyrRZpiM	159536
+Kiss Me	3YcNzHOBmk8	35249527
+Mr. Brightside	gGdGFtwCNBE	210061303
+My Own Worst Enemy	sc5iTNVEOAg	17207798
+Your Heart	aun1lHyqwBg	8054603
+I Miss You	s1tAYmMjLdY	152393715
+Dog Days Are Over	iWOyfLBYtuU	78451246
+First	k_VRFpz4QvI	5210368
+God Is on the Move	yPB9ENSd1Xc	9374114
+Lane Boy	ywvRgGAd2XI	132268540
+Tonight Looks Good on You	zsM8GD2Q4nU	25538975
+Seein' Red	zPrOEMW60MY	5585992
+4422	kn96LpJR9CU	242931
+Self-Esteem	eeWjzBHUdsI	37334635
+Human	L3wKzyIN1yk	219139365
+Fresh Eyes	xipU1hxO_nk	11280095
+Safe And Sound	47dtFZ8CFo8	313938992
+Do Not Disturb	QCGYbdlRmBE	4696742
+Every Time I Hear That Song	EfZfURgx9b0	2605644
+Peg	LI7NDDQLvbo	832042
+Born To Be Wild	rMbATaj7Il8	31886132
+The Proof Of Your Love	b-2dKOfbC9c	12910697
+Money	JkhX5W7JoWI	13389688
+For What It's Worth	gp5JCrSXkJY	23586584
+All the People Said Amen	R377Az6RQiI	1721674
+Poker Face	bESGLojNYSo	408469232
+We Are The Champions	04854XqcfCY	94542145
+Remedy	NSepLx1KniA	32317
+Get It Together	LdpQfyJFu9A	9658125
+2 Phones	oiY_iKSpWLM	200621133
+21 Summer	_PKk62XccU0	2599679
+Best Day Of My Life	Y66j_BUCBMY	140928534
+I Don't Want This Night to End	-jEDdFm3Nx0	63290231
+I Drive Your Truck	yCSMCgqlc-0	22765116
+In My Life	-eCh3y5VROM	3910149
+Midnight Train to Georgia	A0F9lh8TiSM	959496
+Hells Bells	etAIpkdhU9Q	76912974
+Wrong Side Of Heaven	o_l4Ab5FRwM	128746473
+Throne	Ow_qI_F2ZJI	62497773
+Love Me Like You Mean It	2r6N2JQQwg0	21736109
+Someone Saved My Life Tonight	VZRRd4bW91c	830386
+Too Good To Say Goodbye	RbIIMDUAPOg	1579854
+Ain't Worth The Whiskey	i8rMpN4o-b0	14523506
+I Want To Know What Love Is	raNGeq3_DtM	47784121
+Rocket Man	-LX7WrHCaUA	16760797
+Fake It	Pj5z50FukdQ	9750378
+Belle	egQbaDRMxGI	5909832
+Someone New	bPJSsAr2iu0	55232371
+You Give Love A Bad Name	KrZHPOeOxQQ	140490442
+Firework	QGJuMBdaqIw	902968637
+Maps	NmugSMBh_iI	358914908
+Your Love	pSFyrrhKj1Q	97787091
+Just a Kiss	v_yTphvyiPU	68205952
+KMT	Y-hvQOsnXXk	940316
+You Make My Dreams	EErSKhC0CZs	2459768
+My Name Is Human	l5-gja10qkw	2647191
+Handel: Suite No.4 In D Minor For Harpsichord, HWV 437 - Sarabande	bWzUdGNa46I	183236
+No Such Thing as a Broken Heart	4f1ywgU4i-c	425833
+Runaway Train	NRtvqT_wMeY	69950724
+Buddy Holly	kemivUKb4f4	30546747
+On Top Of The World	w5tWYmIOWGk	149479266
+Love in the Dark	3I2sq1q_JOw	116507
+Honey Bee	xZjosn2u1gA	36121088
+Days In The Sun	deVaBYbP3WY	2301518
+Castaway	PsyunxB6aUk	91997
+Wild World	k_0U3DlLFSU	5269219
+Baker Street	ZsXjCp_f1h4	5603344
+How Does A Moment Last Forever	WnLsaCLdoMQ	5666108
+Jorja Interlude	siJWRMX_ww8	10417
+No Longer Slaves	f8TkUMJtK5k	24711142
+Selfish	8Sczx0Xztd4	13024167
+Just Be Held	tIZitK6_IMQ	13199623
+In The End	eVTXPUF4Oz4	290966776
+With Or Without You	XmSdTa9kaiQ	220093836
+Goodbye Yellow Brick Road	DDOL7iY8kfo	6249623
+Jealous	50VWOBi0VFs	48007335
+He Knows My Name	haLkLDfLBok	2946033
+Love Triangle	7FUVdTEQxu8	6188175
+Carry On	q7yCLn-O-Y0	70171864
+The Greatest	GKSRyLdjsPA	412930700
+Rock You Like A Hurricane	CGfKi6kpdTQ	3772305
+He Was You	LPRLHIL_kSE	1851180
+Last Resort	QhJ6bE4z5vs	59858003
+Before He Cheats	WaSy8yy-mr8	83271931
+Lonely Tonight	G91KZ56mNbw	16049027
+Pompeii	F90Cw4l-8NY	400627219
+Love The Way You Lie	uelHwf8o7_U	1286911417
+Stubborn Love	UJWk_KNbDHo	46969935
+The Judge	PbP-aIe51Ek	37166670
+Only Time	7wfYIMyS_dI	69404834
+You're The Inspiration	wM-XhQeFzW4	32875202
+Something There	R-GoD0rmegE	3417018
+Saturday In The Park	PLiMy4NaSKc	3305690
+The Red	trinU3VD1Zo	23941331
+Cake By The Ocean	vWaRiD5ym74	255941166
+Despacito	kJQP7kiw5Fk	816180036
+Headstrong	HTvu1Yr3Ohk	19422025
+Team	KVGRN7Z7T1A	94212678
+Make Me Wanna	UPNDK46QiRM	29916648
+22	AgFeZr5ptV8	416693323
+1979	4aeETEoNfOg	46736587
+State Of My Head	Kv0B-DLtMiM	11220931
+Move	88JX07qeAf0	7660939
+Yellow	yKNxeF4KMsY	157082231
+When I Come Around	i8dh9gDzmz8	33942667
+A Sky Full of Stars	VPRjCeoBqrI	279181589
+Cut The Cord	9itwt_opsvQ	25639599
+Bad Romance	qrO4YZeyl0I	806665522
+Applause	pco91kroVgQ	282130072
+Finesse	MRSaiAREnwI	5891565
+My Shot	NwlBxYyjrqM	1765135
+My Way	b4Bj7Zb-YD4	181670604
+Money For Nothing	iwDDswGsJ60	15550536
+Runnin' Outta Moonlight	py5VdvxO9cE	12138059
+Remember When	TTA2buWlNyM	75223179
+Save It for a Rainy Day	zY9es8R4PD4	15957911
+Somebody Else	Bimd2nZirT4	20212636
+Lydia	ev-bR9ii7Gs	7436138
+Praise You In This Storm	L5bLvVjJ4MA	2525993
+Get Lucky	5NV6Rdv1a3I	276597278
+Lift Your Head Weary Sinner	xPpEOUVpxrM	2460228
+I Am Machine	8Zx6RXGNISk	26955595
+Don't You Wanna Stay	sIjkVn_ro0g	26087087
+Shining	nD92-vOEUG8	6765342
+Light My Fire	deB_u-to-IE	25228295
+Mr. Misunderstood	rOuF3k_-asA	13006833
+Ice Melts	8zT7pCmCJec	23929
+The Swan of Tuonela	FXS2DabqBI8	106729
+Village Crazy Lady	m3ITrxFTXNg	1382053
+Start Me Up	ZzlgJ-SfKYE	17965426
+Beachin'	VwgCBRj3dn4	18408706
+Don't	d7cVLE4SaN0	214734347
+Break Free	L8eRzOYhLuw	814341591
+Same Power	InsifiZxVXU	3996924
+Love Broke Thru	44l9PRI4c2M	2432243
+In Rainbows	bAWEG0AhA_M	415800
+Sultans Of Swing	xo-J1wf2KHc	16612937
+Wake Me Up	IcrbM1l_BoI	1276630467
+Don't Threaten Me With A Good Time	H5NqIsnyTG8	20747995
+Rumour Has It	bgpInZ6OQ40	16210533
+Yeah!	GxBSyx85Kp8	91906914
+Only the Good Die Young	zhjNm20XbXw	6384920
+Monster	1mjlM_RnsVE	186733940
+Wasted Time	PMqUat-Oqsk	11187017
+Aaron Burr, Sir	7Z6U9WaZXkY	375336
+oui	VtcP0PFifpE	145017900
+One Step Away	xrPJZYywTuA	1129651
+Wild Horses	UFLJFl7ws_0	3795303
+Back To Sleep	OQLuhelCaDQ	59937251
+Lights	0NKUpo_xKyQ	135107174
+Story of My Life	W-TE_Ys4iwM	564796545
+Let's Get It On	x6QZn9xiuOE	27416917
+Work Song	nH7bjV0Q_44	39524735
+Our House	oXA6CLTDekw	1061686
+Scared To Be Lonely	e2vBLd5Egnk	113145462
+Unaccompanied Cello Suite No. 1 in G Major, BWV 1007: Unaccompanied Cello Suite No. 1 in G Major, BWV 1007: Sarabande	DwHpDOWhkGk	5373849
+Greater	GXI0B4iMLuU	22732916
+Lego House	c4BLVznuWnU	190931495
+Drowning	rvaJ7QlhH0g	8437408
+Kill Em With Kindness	HHP5MKgK0o8	338953140
+Nice & Slow	H5ut--BZw3M	22241340
+Rutter: Lullaby For Pegi	rck0TXxZ9Kk	1168
+Anything Goes	qo6lPifGnGA	3435358
+Backroad Song	cgPRvCA5-PM	10119749
+Thrive	lEV5AFFcZ-s	11978598
+How Does A Moment Last Forever	WnLsaCLdoMQ	5666108
+Road Less Traveled	j-NAEvc-b6E	3554547
+I Don't Get Tired	_gB2iWln0ls	45142712
+Sunshine & Whiskey	RYKnP-6cDWE	5924439
+Little Talks	ghb6eDopW8I	213485221
+Faithfully	OMD8hBsA-RI	65132155
+Easy, Like Sunday Morning	WQpq5ofcSdg	855476
+Can't Have Everything	TUK1TO9AoQI	12642
+Cavern	yGncWGLHdQw	251248
+Cry Out To Jesus	JmVxRl5bc4Y	8390359
+Jumpman	EhEVUgSn1Ps	6102691
+Cold One	BKvE-WoooLE	7091744
+Cheap Thrills	nYh-n7EOtMA	811511957
+Forgot About Dre	QFcv5Ma8u8k	24367800
+Cleopatra	aN5s9N_pTUs	18032336
+Nutshell	N_GPxe91hWE	14062192
+Bang A Gong	TVEhDrJzM8E	8443185
+Your Body Is a Wonderland	N5EnGwXV_Pg	46795537
+Haydn: String Quartet in D Major, Hob.III:3,  - 1. Adagio	LTIRyX6dKmM	11784
+House Of The Rising Sun	5A-4VGfx5lU	24992930
+Gravity	7VBex8zbDRs	28839243
+Me, Myself & I	bSfpSOBD30U	270921845
+Cumbersome	NjNn4bbbgSw	8635595
+Wish I Knew You	o0Pt7M0weUI	3261598
+Apologize	ZSM3w1v-A_Y	157657799
+No Heart	6wtwpUwxQik	117657149
+Overture	VbxgYlcNxE8	15675106
+Wheel In The Sky	Q0sfhppn1e8	417730
+Give Me Love	FOjdXSrtUxA	430635183
+I Got You	uEJuoEs1UxY	117480838
+Madiba Riddim	B0ZrpVAeC0g	76303
+Sun Daze	c8nY06Pt8Qw	21410979
+Fairly Local	HDI9inno86U	89501689
+Run the World	VBmMU_iwe6U	355538218
+Home Alone Tonight	f2Exzqu2ocs	3860173
+Blank Space	e-ORhEE9VVg	2010494683
+I Don't Fuck With You	cZaJYDPY-YQ	231417228
+Nightmare	94bGzWyHbu0	103673005
+Together Again	vfK5QhZ9u7o	1552640
+I Cross My Heart	A-Lo33Ep99I	7968267
+I Write Sins Not Tragedies	vc6vs-l5dkc	180758590
+Another Brick in the Wall, Pt. 2	34ZmKbe5oG4	1445336
+Psychosocial	5abamRO41fE	149833496
+Faith	opGJR_dBEvY	5589652
+Hallelujah	LRP8d7hhpoQ	147290507
+Auditions	Y_xh-d8t_kY	7204138
+Here Without You	kPBzTxZQG5Q	308115763
+It's Time	sENM2wA_FTg	272233806
+Chopin: Nocturne No.21 In C Minor, Op.posth.	xIqx0MOsNfo	886331
+Through Glass	GIzDsGyxsQM	47812708
+Skinny Love	aNzCDt2eidg	124832124
+The Monster	EHkozMIXZ8w	487977751
+Build Your Kingdom Here	sbdJXKqVgtg	10400300
+Live Like You Were Dying	_9TShlMkQnc	6905938
+Summertime Sadness	nVjsGKrE6E8	271337428
+That's The Way Love Goes	NpQ88a6zy8E	1419066
+Songbird	QN2RnjFHmNY	6258758
+All In My Head	jsbeemdD2rQ	308283746
+Parachute	mcaOIyYv-gY	7377154
+Halo	bnVUHWCynig	493568984
+Hungry Like The Wolf	oOg5VxrRTi0	33457263
+Come Fly With Me	HmQq6yLe2ww	12124610

@@ -35,7 +35,7 @@ def youtube_video(options):
   # Add each result to the appropriate list, and then display the lists of
   # matching videos, channels, and playlists.
   for video_result in video_response.get("items", []):
-    if video_result["kind"] == "youtube#video":
+    if video_result["kind"] == "youtube#video" and video_result.has_key("statistics"):
       return video_result["id"], video_result["statistics"]["viewCount"]
     elif video_result["kind"] == "youtube#channel":
       return video_result["id"], video_result["statistics"]["viewCount"]
@@ -60,8 +60,8 @@ if __name__ == "__main__":
       if videoId and videoReview:
         listOfReviews.append(video_id.split("\t")[0] + "\t" + videoId.encode('utf-8') + "\t" + videoReview.encode('utf-8'))
         print listOfReviews[-1].split("\t")
-    except HttpError, e:
-      print "An HTTP error %d occurred:\n%s" % (e.resp.status, e.content)
+    except:
+      print "An HTTP error"
 
   print [line.split("\t") for line in listOfReviews]
 
