@@ -11,9 +11,9 @@ if __name__ == "__main__":
     else:
         file = open("top100videoTitle_ID_Reviews.txt")
 
-    for line in sorted(file, key=score, reverse=True):
+    for i,line in enumerate(sorted(file, key=score, reverse=True)):
         print(line)
-        orderedList.append(line)
+        orderedList.append(str(i) + " " + line)
 
     outfile = open("top100" + kind + "SortedListByReviews.txt", 'w')
     outfile.write("".join(orderedList))
