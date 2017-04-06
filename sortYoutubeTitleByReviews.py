@@ -16,4 +16,4 @@ if __name__ == "__main__":
         orderedList.append(line)
 
     outfile = open("top100" + kind + "SortedListByReviews.txt", 'w')
-    outfile.write("\n".join(orderedList))
+    outfile.write("".join(orderedList))
