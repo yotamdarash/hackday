@@ -46,9 +46,9 @@ if __name__ == "__main__":
   kind = "video"
   listOfReviews = []
   if kind == "playlist":
-    file = open("top100videoIds")
+    file = open("top100playlistId.txt")
   else:
-    file = open("top100videoIds")
+    file = open("top100videoId.txt")
 
   argparser.add_argument("--id", help="video_id", default="")
   args = argparser.parse_args()
