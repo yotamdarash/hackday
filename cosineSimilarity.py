@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 from math import*
 
-txt_file_B = open("TracksTwoSourceVectors.txt", "r")
+txt_file_B = open("TracksTwoSourceVectorsDE.txt", "r")
 vector_A = []
 vector_B = []
 for line in txt_file_B:
