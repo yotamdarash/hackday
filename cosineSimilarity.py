@@ -1,9 +1,15 @@
 #!/usr/bin/env python
 from math import*
-txt_file_A = open("hackday/topTracksRankingAmazon.txt", "r")
-txt_file_B = open("hackday/topTracksRankingYouTube.txt", "r")
-vector_A = txt_file_A.read().split()
-vector_B = txt_file_B.read().split()
+
+txt_file_B = open("TracksTwoSourceVectors.txt", "r")
+vector_A = []
+vector_B = []
+for line in txt_file_B:
+    vector_A.append(line.split()[0])
+    vector_B.append(line.split()[1])
+#
+# vector_A = txt_file_A.read().split()
+# vector_B = txt_file_B.read().split()
 
 vector_A = list(map(int, vector_A))
 vector_B = list(map(int, vector_B))
