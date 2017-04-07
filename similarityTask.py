@@ -1,6 +1,8 @@
 def addVector(trackVectorsCollection, chart, type):
     for i,line in enumerate(chart):
         title = line.split("\t")[0].strip();
+        if type == "youtube":
+            title = title.lstrip('0123456789 ')
         if not trackVectorsCollection.has_key(title):
             trackVectorsCollection[title] = {type : i}
         else:
