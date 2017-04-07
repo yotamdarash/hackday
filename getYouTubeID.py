@@ -41,7 +41,7 @@ if __name__ == "__main__":
     if kind == "playlist":
         file = open("top500albumAmazonTitle.txt")
     else:
-        file = open("top100trackAmazonTitle.txt")
+        file = open("top1000trackAmazonInDETitle.txt")
     argparser.add_argument("--q", help="Search term", default="none")
     argparser.add_argument("--max-results", help="Max results", default=1)
     args = argparser.parse_args()
@@ -59,7 +59,7 @@ if __name__ == "__main__":
 
     print [line.split("\t") for line in listOfIds]
 
-    outfile = open("top100" + kind + "Id.txt", 'w')
+    outfile = open("top100" + kind + "IdDE.txt", 'w')
     outfile.write("\n".join(listOfIds))
 
 
