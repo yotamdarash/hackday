@@ -27,7 +27,7 @@ def youtube_search(options):
         chart="mostPopular",
         maxResults=50,
         pageToken=options.pageToken,
-        regionCode = "IT"
+        regionCode = "MX"
     ).execute()
     trackList = []
     for search_result in search_response.get("items", []):
@@ -57,7 +57,7 @@ if __name__ == "__main__":
         listOfTracks[i][0] = name
         # listOfTracksFromPage[0] = name
         #
-    outfile = open("TopTracksFromYouTubeItaly.txt",'w')
+    outfile = open("TopTracksFromYouTubeMX.txt",'w')
     outfile.write("\n".join(["\t".join(line) for line in listOfTracks]))
 
 
