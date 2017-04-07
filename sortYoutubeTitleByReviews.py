@@ -9,11 +9,11 @@ if __name__ == "__main__":
     if kind == "playlist":
         file = open("top100videoTitle_ID_Reviews.txt")
     else:
-        file = open("top100videoTitle_ID_ReviewsDE.txt")
+        file = open("top100videoTitle_ID_ReviewsBefore2017.txt")
 
     for i,line in enumerate(sorted(file, key=score, reverse=True)):
         print(line)
         orderedList.append(line)
 
-    outfile = open("top100" + kind + "SortedListByReviewsDE.txt", 'w')
+    outfile = open("top100" + kind + "SortedListByReviewsBefore2017.txt", 'w')
     outfile.write("".join(orderedList))

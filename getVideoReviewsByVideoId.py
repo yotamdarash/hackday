@@ -48,7 +48,7 @@ if __name__ == "__main__":
   if kind == "playlist":
     file = open("top100playlistId.txt")
   else:
-    file = open("top100videoIdDE.txt")
+    file = open("top1000VideoIdsBefore2017InYouTube.txt")
 
   argparser.add_argument("--id", help="video_id", default="")
   args = argparser.parse_args()
@@ -65,5 +65,5 @@ if __name__ == "__main__":
 
   print [line.split("\t") for line in listOfReviews]
 
-  outfile = open("top100" + kind + "Title_ID_ReviewsDE.txt", 'w')
+  outfile = open("top100" + kind + "Title_ID_ReviewsBefore2017.txt", 'w')
   outfile.write("\n".join(listOfReviews))

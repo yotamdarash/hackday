@@ -8,8 +8,8 @@ def addVector(trackVectorsCollection, chart, type):
 
 
 
-amazonFileName = "top1000trackAmazonInDETitle.txt"
-youtubeFileName = "top100videoSortedListByReviewsDE.txt"
+amazonFileName = "top100trackAmazonTitle.txt"
+youtubeFileName = "top100videoSortedListByReviewsBefore2017.txt"
 amazonRank = open(amazonFileName)
 youtubeRank = open(youtubeFileName)
 
@@ -27,7 +27,7 @@ for item in trackVectorsCollection.values():
         amazonPlaceList.append(item["youtube"])
         listToFile.append(str(item["amazon"]) + " " + str(item["youtube"]))
 
-outfile = open("TracksTwoSourceVectorsDE.txt", 'wb')
+outfile = open("TracksTwoSourceVectorsBefore2017.txt", 'wb')
 outfile.write("\n".join(listToFile))
 print trackVectorsCollection
 
